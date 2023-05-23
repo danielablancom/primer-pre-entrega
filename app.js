@@ -6,7 +6,7 @@ let opcionesDeViaje = prompt(
 
 function escogerPais(pais) {
   if (pais === '1') {
-    // alert('Planifiquemos tu viaje a Chile');
+    alert('Planifiquemos tu viaje a Chile');
   } else if (pais === '2') {
     alert('Planifiquemos tu viaje a Argentina');
   } else if (pais === '3') {
